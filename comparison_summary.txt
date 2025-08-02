@@ -1,0 +1,9 @@
+ The key changes in the document are as follows:
+
+1. The original document focuses on creating a Direct Foreign Trade Platform for Coastal MSMEs, addressing issues like poor infrastructure, exploitation by middlemen, and complex export regulations. The new document, however, has been replaced with Certification Criteria for a different project that appears to be related to programming and AI courses, such as N8N, Hugging Face Courses, Deeplearning.ai, Vibe Coding, and more.
+
+2. While the original document outlines core innovations like an AI Matchmaking Engine, Blockchain & Trust Infrastructure, Logistics & Compliance Suite, and Mobile-First Accessibility for the Direct Trade Platform, the new document does not mention any such details but instead lists programming projects and certifications to be completed as part of this new project.
+
+3. The original document includes an Implementation Plan with Phases 1, 2, and 3, a Revenue Model, and a 'Why us?' section. In contrast, the new document focuses solely on the certification criteria without mentioning any implementation plan or revenue model.
+
+4. Other notable differences include changes in the document structure (e.g., adding a 'Note' section), as well as a shift from discussing trade problems faced by MSMEs and proposing a solution to listing programming projects and certifications as requirements for this new project.
